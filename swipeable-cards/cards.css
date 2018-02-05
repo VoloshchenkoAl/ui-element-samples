@@ -23,6 +23,10 @@ html, body {
   color: #333;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 * {
   box-sizing: border-box;
 }
